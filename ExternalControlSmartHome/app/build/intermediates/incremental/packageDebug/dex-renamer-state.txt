@@ -1,0 +1,7 @@
+#Sun Oct 08 15:39:12 ICT 2017
+base.0=C\:\\Users\\h2phamth\\Desktop\\ExternalControlSmartHome\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_489484f83a5c7b0318755e087fbc29116fd78901
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\h2phamth\\Desktop\\ExternalControlSmartHome\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ead3e8f842b9ec99fe4a8071a6f8276168b46e3d\\classes.dex
+base.1=C\:\\Users\\h2phamth\\Desktop\\ExternalControlSmartHome\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ead3e8f842b9ec99fe4a8071a6f8276168b46e3d
+file.0=C\:\\Users\\h2phamth\\Desktop\\ExternalControlSmartHome\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_489484f83a5c7b0318755e087fbc29116fd78901\\classes.dex
